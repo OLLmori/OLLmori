@@ -25,6 +25,19 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OLLmori&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="OLLmori's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLLmori&theme=tokyonight&hide_border=true" alt="OLLmori's GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLLmori&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## 🛠 Expertise & Domains
 
 ### Marketing & Growth
